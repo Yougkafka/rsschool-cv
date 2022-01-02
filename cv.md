@@ -1,9 +1,9 @@
 # Artyom Savostyanov
 
-
 ## Junior Frontend Developer
 
 ## Contact information
+
 * Mobile Phone: +7 999 538 48 39
 * Email: youngkafka@yandex.ru
 * TG: @perfectllyadequate
@@ -18,7 +18,8 @@ At the point where I was managing the development of websites for our company, I
 
 This interest now has fully grown into a motivation to become a frontend developer, as I started doing HTML Academy exercises and RSschool courses.
 
-## Skills and proficiency 
+## Skills and proficiency
+
 * HTML5 (basics)
 * CSS3 (basics)
 * JS (basics)
@@ -26,10 +27,12 @@ This interest now has fully grown into a motivation to become a frontend develop
 * VScode
 
 ## Courses
+
 * RSschool course «JavaScript/Front-end. Stage 0» (in progress)
 * HTML Academy 'HTML, CSS and JS basics" (in progress).
 
 ## Languages
+
 * Russian (native)
 * English (Intermediate)
 * French (Elementary)
