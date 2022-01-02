@@ -4,9 +4,9 @@
 ## Junior Frontend Developer
 
 ## Contact information
-* Phone: +7 999 538 48 39
+* Mobile Phone: +7 999 538 48 39
 * Email: youngkafka@yandex.ru
-* Telegram: @perfectllyadequate
+* TG: @perfectllyadequate
 * Discord: Youngkafka
 
 ## My Bio
