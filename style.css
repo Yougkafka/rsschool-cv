@@ -1,3 +1,106 @@
-p {
-    color: red;
+@import url(https://fonts.googleapis.com/css?family=Varela+Round);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700);
+
+.resume-wrapper {
+    display: flex;
+    justify-content: space-between;
+    background-color:lightskyblue;
+    padding: 3%;
+    margin: 3%;
+    color:slategrey;
+    box-shadow: dimgrey 10px 10px;
+}
+
+.round-avatar {
+    border-radius: 100px;
+    text-align: center;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+}
+
+.name {
+    text-align: left;
+    font-family: 'Valera-round', sans-serif;
+    line-height: 3em;
+    text-transform: capitalize;
+    
+    
+}
+
+.contacts {
+    line-height: 1,4em;
+    align-self: flex-end;
+}
+
+.list-contacts {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.bio {
+    display: inline-flex;
+    border: 1px grey solid;
+    padding: 3%;
+    margin: 3%;
+    box-shadow: dimgrey 5px 5px;
+    
+}
+
+.skills {
+    display: block;
+    border: 1px grey solid;
+    padding: 3%;
+    margin: 3%;
+    box-shadow: dimgrey 5px 5px; 
+}
+
+.courses {
+    display: block;
+    float: left;
+    margin: 3%;
+    padding: 3%;
+    width: 38%;
+    height: 200px;
+    border: 1px grey solid;
+    box-shadow: dimgrey 5px 5px;  
+}
+
+.lang {
+    display: block;
+    float: left;
+    margin: 3%;
+    padding: 3%;
+    width: 37%;
+    height: 200px;
+    border: 1px grey solid;
+    box-shadow: dimgrey 5px 5px;  
+}
+
+.progress dd {
+    margin: 0;
+    margin-bottom: 10px;
+    background-color: dimgrey;
+}
+
+.skills-level {
+    font-size: 12px;
+    text-align: center;
+    color:gainsboro;
+    background-color: darkorange;
+}
+
+.projects {
+    display: flex;
+    border: 1px grey solid;
+    padding: 3%;
+    margin: 3%;
+    box-shadow: dimgrey 5px 5px; 
+}
+
+footer {
+    text-align: center;
 }
